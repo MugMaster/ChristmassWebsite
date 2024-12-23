@@ -1,0 +1,36 @@
+* {
+	text-align: center;
+}
+
+header {
+	background-color: 0,0,0;
+}
+
+titleLabel {
+	font-size: 80;
+	border: 10;
+	background-color: 166,240,180;
+	color: #ffffff;    
+}
+
+body {
+	display:inline-block;
+	font-size: 18;
+	border: 10; 
+	width: 100%;
+	margin: auto;
+	font-family: 'Lexend Deca', sans-serif;  
+}
+
+h1 {
+	width: 100%;
+	background-color: white;
+	color: black;
+}
+
+h2 {
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+
